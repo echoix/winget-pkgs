@@ -7,24 +7,24 @@ PackageLocale: en-US
 Publisher: SAGA User Group Association
 PublisherUrl: https://sourceforge.net/projects/saga-gis/
 PublisherSupportUrl: https://sourceforge.net/projects/saga-gis/support
-# PrivacyUrl: 
+# PrivacyUrl:
 Author: SAGA User Group Association
-PackageName: SAGA
+PackageName: SAGA 8.2.1
 PackageUrl: http://www.saga-gis.org/en/index.html
 License: GNU General Public Licence or GPL
 LicenseUrl: http://www.gnu.org/licenses/gpl-3.0.html
-# Copyright: 
-# CopyrightUrl: 
+# Copyright:
+# CopyrightUrl:
 ShortDescription: SAGA is the abbreviation for System for Automated Geoscientific Analyses.
-# Description: 
+# Description:
 Moniker: saga
 Tags:
 - geography
 - gis
 - science
 - topography
-# Agreements: 
-# ReleaseNotes: 
-# ReleaseNotesUrl: 
+# Agreements:
+# ReleaseNotes:
+# ReleaseNotesUrl:
 ManifestType: defaultLocale
 ManifestVersion: 1.1.0

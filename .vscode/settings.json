@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://aka.ms/winget-manifest.installer.1.2.0.schema.json": "file:///d%3A/repos/winget-pkgs/manifests/s/SAGAUserGroupAssociation/SAGAGIS/8.2.2/SAGAUserGroupAssociation.SAGAGIS.installer.yaml"
+    }
+}

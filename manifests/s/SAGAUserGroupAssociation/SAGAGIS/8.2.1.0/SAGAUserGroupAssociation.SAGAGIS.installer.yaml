@@ -19,9 +19,15 @@ Installers:
   InstallerUrl: https://sourceforge.net/projects/saga-gis/files/SAGA%20-%208/SAGA%20-%208.2.1/saga-8.2.1_x64_setup.exe/download
   InstallerSha256: 493AC01F03588DFEECEEAD9B357818A3D01CC09D1FF218A56737E30E4294C772
   ProductCode: SAGA - System for Automated Geoscientific Analyses_is1
+  AppsAndFeaturesEntries:
+  - DisplayName: SAGA 8.2.1
+    DisplayVersion:
 - Architecture: x86
   InstallerUrl: https://sourceforge.net/projects/saga-gis/files/SAGA%20-%208/SAGA%20-%208.2.1/saga-8.2.1_win32_setup.exe/download
   InstallerSha256: 0D25A5C42760CB2B3EB9708B722FD369F2276E768F3F4704AE2C6AFA8711E87F
   ProductCode: SAGA - System for Automated Geoscientific Analyses_is1
+  AppsAndFeaturesEntries:
+  - DisplayName: SAGA 8.2.1
+    DisplayVersion:
 ManifestType: installer
 ManifestVersion: 1.1.0
